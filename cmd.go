@@ -1,4 +1,4 @@
-package cmd
+package ecmd
 
 import (
 	"log"
