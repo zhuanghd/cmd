@@ -1,3 +1,3 @@
-module github.com/zhuanghd/cmd
+module github.com/zhuanghd/ecmd
 
 go 1.19
